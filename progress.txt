@@ -1,0 +1,25 @@
+Web app enumerator
+Made of multiple modules
+Final format will look something like:
+
+KSE v1.0
+
+=====================================
+MODULE 1
+STUFF
+HERE
+=====================================
+MODULE 2
+STUFF
+HERE
+=====================================
+Etc....
+
+Modules to make:
+Robots.txt checker
+Sub directory fuzzer
+Sub domain fuzzer
+Site owner and information
+GET request of page to get server version and other information
+
+More modules to be addded...
